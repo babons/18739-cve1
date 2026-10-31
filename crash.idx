@@ -1,0 +1,178 @@
+# VobSub index file, v7 (do not modify this line!)
+#
+size: 720x480
+org: 0, 0
+scale: 100%, 100%
+alpha: 100%
+smooth: OFF
+fadein/out: 0, 0
+align: OFF at LEFT TOP
+time offset: 0
+forced subs: OFF
+palette: 000000, ffffff, 000000, ffffff, 000000, ffffff, 000000, ffffff, 00>
+langidx: 0
+
+id: en, index: 0
+timestamp: 00:00:05:000, filepos: 000000000
+timestamp: 00:00:12:500, filepos: 000001200
+timestamp: 00:00:20:000, filepos: 000002400
+
+id: en, index: 1
+timestamp: 00:00:05:000, filepos: 000000000
+timestamp: 00:00:12:500, filepos: 000001200
+timestamp: 00:00:20:000, filepos: 000002400
+
+id: en, index: 0
+timestamp: 00:00:05:000, filepos: 000000000
+timestamp: 00:00:12:500, filepos: 000001200
+timestamp: 00:00:20:000, filepos: 000002400
+
+id: en, index: 1
+timestamp: 00:00:05:000, filepos: 000000000
+timestamp: 00:00:12:500, filepos: 000001200
+timestamp: 00:00:20:000, filepos: 000002400
+
+id: en, index: 0
+timestamp: 00:00:05:000, filepos: 000000000
+timestamp: 00:00:12:500, filepos: 000001200
+timestamp: 00:00:20:000, filepos: 000002400
+
+id: en, index: 1
+timestamp: 00:00:05:000, filepos: 000000000
+timestamp: 00:00:12:500, filepos: 000001200
+timestamp: 00:00:20:000, filepos: 000002400
+
+id: en, index: 0
+timestamp: 00:00:05:000, filepos: 000000000
+timestamp: 00:00:12:500, filepos: 000001200
+timestamp: 00:00:20:000, filepos: 000002400
+
+id: en, index: 1
+timestamp: 00:00:05:000, filepos: 000000000
+timestamp: 00:00:12:500, filepos: 000001200
+timestamp: 00:00:20:000, filepos: 000002400
+
+id: en, index: 0
+timestamp: 00:00:05:000, filepos: 000000000
+timestamp: 00:00:12:500, filepos: 000001200
+timestamp: 00:00:20:000, filepos: 000002400
+
+id: en, index: 1
+timestamp: 00:00:05:000, filepos: 000000000
+timestamp: 00:00:12:500, filepos: 000001200
+timestamp: 00:00:20:000, filepos: 000002400
+
+id: en, index: 0
+timestamp: 00:00:05:000, filepos: 000000000
+timestamp: 00:00:12:500, filepos: 000001200
+timestamp: 00:00:20:000, filepos: 000002400
+
+id: en, index: 1
+timestamp: 00:00:05:000, filepos: 000000000
+timestamp: 00:00:12:500, filepos: 000001200
+timestamp: 00:00:20:000, filepos: 000002400
+
+id: en, index: 0
+timestamp: 00:00:05:000, filepos: 000000000
+timestamp: 00:00:12:500, filepos: 000001200
+timestamp: 00:00:20:000, filepos: 000002400
+
+id: en, index: 1
+timestamp: 00:00:05:000, filepos: 000000000
+timestamp: 00:00:12:500, filepos: 000001200
+timestamp: 00:00:20:000, filepos: 000002400
+
+id: en, index: 0
+timestamp: 00:00:05:000, filepos: 000000000
+timestamp: 00:00:12:500, filepos: 000001200
+timestamp: 00:00:20:000, filepos: 000002400
+
+id: en, index: 1
+timestamp: 00:00:05:000, filepos: 000000000
+timestamp: 00:00:12:500, filepos: 000001200
+timestamp: 00:00:20:000, filepos: 000002400
+
+id: en, index: 0
+timestamp: 00:00:05:000, filepos: 000000000
+timestamp: 00:00:12:500, filepos: 000001200
+timestamp: 00:00:20:000, filepos: 000002400
+
+id: en, index: 1
+timestamp: 00:00:05:000, filepos: 000000000
+timestamp: 00:00:12:500, filepos: 000001200
+timestamp: 00:00:20:000, filepos: 000002400
+
+id: en, index: 0
+timestamp: 00:00:05:000, filepos: 000000000
+timestamp: 00:00:12:500, filepos: 000001200
+timestamp: 00:00:20:000, filepos: 000002400
+
+id: en, index: 1
+timestamp: 00:00:05:000, filepos: 000000000
+timestamp: 00:00:12:500, filepos: 000001200
+timestamp: 00:00:20:000, filepos: 000002400
+
+id: en, index: 0
+timestamp: 00:00:05:000, filepos: 000000000
+timestamp: 00:00:12:500, filepos: 000001200
+timestamp: 00:00:20:000, filepos: 000002400
+
+id: en, index: 1
+timestamp: 00:00:05:000, filepos: 000000000
+timestamp: 00:00:12:500, filepos: 000001200
+timestamp: 00:00:20:000, filepos: 000002400
+
+id: en, index: 0
+timestamp: 00:00:05:000, filepos: 000000000
+timestamp: 00:00:12:500, filepos: 000001200
+timestamp: 00:00:20:000, filepos: 000002400
+
+id: en, index: 1
+timestamp: 00:00:05:000, filepos: 000000000
+timestamp: 00:00:12:500, filepos: 000001200
+timestamp: 00:00:20:000, filepos: 000002400
+
+id: en, index: 0
+timestamp: 00:00:05:000, filepos: 000000000
+timestamp: 00:00:12:500, filepos: 000001200
+timestamp: 00:00:20:000, filepos: 000002400
+
+id: en, index: 1
+timestamp: 00:00:05:000, filepos: 000000000
+timestamp: 00:00:12:500, filepos: 000001200
+timestamp: 00:00:20:000, filepos: 000002400
+
+id: en, index: 0
+timestamp: 00:00:05:000, filepos: 000000000
+timestamp: 00:00:12:500, filepos: 000001200
+timestamp: 00:00:20:000, filepos: 000002400
+
+id: en, index: 1
+timestamp: 00:00:05:000, filepos: 000000000
+timestamp: 00:00:12:500, filepos: 000001200
+timestamp: 00:00:20:000, filepos: 000002400
+
+id: en, index: 0
+timestamp: 00:00:05:000, filepos: 000000000
+timestamp: 00:00:12:500, filepos: 000001200
+timestamp: 00:00:20:000, filepos: 000002400
+
+id: en, index: 1
+timestamp: 00:00:05:000, filepos: 000000000
+timestamp: 00:00:12:500, filepos: 000001200
+timestamp: 00:00:20:000, filepos: 000002400
+
+id: en, index: 0
+timestamp: 00:00:05:000, filepos: 000000000
+timestamp: 00:00:12:500, filepos: 000001200
+timestamp: 00:00:20:000, filepos: 000002400
+
+id: en, index: 1
+timestamp: 00:00:05:000, filepos: 000000000
+timestamp: 00:00:12:500, filepos: 000001200
+timestamp: 00:00:20:000, filepos: 000002400
+
+id: en, index: 0
+timestamp: 00:00:05:000, filepos: 000000000
+timestamp: 00:00:12:500, filepos: 000001200
+timestamp: 00:00:20:000, filepos: 000002400
